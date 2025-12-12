@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/R3u3p0G.gif" width="100%"/>
+  <img src="https://media1.tenor.com/m/AFmzGlyPSxkAAAAC/creepy-hacker-glitch.gif" width="100%"/>
 </div>
 
 <div align="center">
@@ -72,7 +72,7 @@
 ### <p align="center">`system --log`</p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Chidr0/Chidr0/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Chidr0/Chidr0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
