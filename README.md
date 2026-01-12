@@ -4,7 +4,8 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=CHIDR0" alt="Typing SVG" />
+    <!-- CORRIGIDO: O link do herokuapp estava quebrado. Usei um novo serviço ativo. -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=CHIDR0" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -14,8 +15,9 @@
 
 <!-- Socials & Profile Views -->
 <div align="center">
-  <a href="mailto:o.chinemann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0d1117" alt="Email"></a>
-  <a href="https://discord.com/users/891811760145858592" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=0d1117" alt="Discord"></a>
+  <!-- MELHORADO: Cores dos badges ajustadas para combinar com o tema "radical" do perfil -->
+  <a href="mailto:o.chinemann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=141321" alt="Email"></a>
+  <a href="https://discord.com/users/891811760145858592" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=141321" alt="Discord"></a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Chidr0&style=flat-square&color=ff0000" alt="Profile Views"/>
 </div>
@@ -24,24 +26,24 @@
 
 ---
 
-### <p align="center">`whoami`</p>
+### <div align="center">`whoami`</div>
 
 <p align="center">
-  I'm a 19-year-old software developer focused on creating efficient, scalable, and well-structured applications. I work primarily with JavaScript, Python, and C, and I enjoy exploring topics like backend engineering, automation and API development. I’m always learning new tools and technologies—such as Node.js, Express, React, Docker, and Git—to expand my skill set and improve as a developer. I also enjoy contributing to open-source projects and building tools that make development easier.
+  Sou um desenvolvedor de software de 19 anos focado em criar aplicações eficientes, escaláveis e bem estruturadas. Trabalho principalmente com JavaScript, Python e C, e gosto de explorar tópicos como engenharia de backend, automação e desenvolvimento de APIs. Estou sempre aprendendo novas ferramentas e tecnologias — como Node.js, Express, React, Docker e Git — para expandir minhas habilidades e evoluir como desenvolvedor. Também gosto de contribuir para projetos de código aberto e construir ferramentas que facilitam o desenvolvimento.
 </p>
 
 ---
 
-### <p align="center">`./status`</p>
+### <div align="center">`./status`</div>
 
 <p align="center">
-  <b>🔭 Currently focused on: Developing automation tools and improving backend systems architecture.<br>
-  <b>🌱 Exploring:</b> Design patterns in C and new approaches to API optimization.
+  <b>🔭 Foco atual:</b> Desenvolvendo ferramentas de automação e melhorando a arquitetura de sistemas backend.<br>
+  <b>🌱 Explorando:</b> Padrões de projeto em C e novas abordagens para otimização de APIs.
 </p>
 
 ---
 
-### <p align="center">`./skills --tree`</p>
+### <div align="center">`./skills --tree`</div>
 
 <table align="center">
   <tr>
@@ -66,7 +68,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>DevOps & Tools</b></td>
+    <td align="center"><b>DevOps & Ferramentas</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -76,21 +78,25 @@
 
 ---
 
-### <p align="center">`./projects`</p>
+### <div align="center">`./projects`</div>
 
-<!-- Substitua os NOME_DO_REPO pelos seus repositórios -->
+<!-- 
+  A FAZER: Substitua 'NOME_DO_REPO_1' e 'NOME_DO_REPO_2' pelos nomes dos seus repositórios fixados.
+  Exemplo: se o link do seu projeto é https://github.com/Chidr0/meu-projeto-incrivel,
+  o nome do repo é 'meu-projeto-incrivel'.
+-->
 <div align="center">
-  <a href="https://github.com/Chidr0/NOME_DO_REPO_1">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chidr0&repo=NOME_DO_REPO_1&theme=radical&hide_border=true&show_owner=true" />
+  <a href="https://github.com/Chidr0/futeboldle">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chidr0&repo=futeboldle&theme=radical&hide_border=true&show_owner=true" />
   </a>
-  <a href="https://github.com/Chidr0/NOME_DO_REPO_2">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chidr0&repo=NOME_DO_REPO_2&theme=radical&hide_border=true&show_owner=true" />
+  <a href="https://github.com/Chidr0/rpg-manager-tool">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Chidr0&repo=rpg-manager-tool&theme=radical&hide_border=true&show_owner=true" />
   </a>
 </div>
 
 ---
 
-### <p align="center">`git --stats`</p>
+### <div align="center">`git --stats`</div>
 
 <div align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Chidr0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
@@ -102,8 +108,12 @@
 
 ---
 
-### <p align="center">`system --log`</p>
+### <div align="center">`system --log`</div>
 
+<!-- 
+  IMPORTANTE: Para a animação da "cobrinha" funcionar, você precisa ter uma GitHub Action configurada.
+  Veja as instruções na seção abaixo de como criar o arquivo necessário.
+-->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Chidr0/Chidr0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
