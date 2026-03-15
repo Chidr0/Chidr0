@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <i><b>Software Developer | 18y | Backend Enthusiast</b></i>
+  <i><b>Software Developer | 19y | Backend Enthusiast</b></i>
 </p>
 
 <!-- Socials & Profile Views -->
@@ -29,7 +29,7 @@
 ### <div align="center">`whoami`</div>
 
 <p align="center">
-  Sou um desenvolvedor de software de 18 anos focado em criar aplicações eficientes, escaláveis e bem estruturadas. Trabalho principalmente com JavaScript, Python e C, e gosto de explorar tópicos como engenharia de backend, automação e desenvolvimento de APIs. Estou sempre aprendendo novas ferramentas e tecnologias — como Node.js, Express, React, Docker e Git — para expandir minhas habilidades e evoluir como desenvolvedor. Também gosto de contribuir para projetos de código aberto e construir ferramentas que facilitam o desenvolvimento.
+  Sou um desenvolvedor de software de 19 anos focado em criar aplicações eficientes, escaláveis e bem estruturadas. Trabalho principalmente com JavaScript, Python e C, e gosto de explorar tópicos como engenharia de backend, automação e desenvolvimento de APIs. Estou sempre aprendendo novas ferramentas e tecnologias — como Node.js, Express, React, Docker e Git — para expandir minhas habilidades e evoluir como desenvolvedor. Também gosto de contribuir para projetos de código aberto e construir ferramentas que facilitam o desenvolvimento.
 </p>
 
 ---
